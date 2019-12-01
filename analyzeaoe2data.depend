@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1540742698 source:c:\program files (x86)\codeblocks\cbprojects\analyzeaoe2data\sdl_base.cpp
+	"sdl_base.h"
+	<sstream>
+	<cstdint>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<vector>
+	<fstream>
+	<map>
+	<queue>
+	<utility>
+	<chrono>
+	<cstdio>
+	<cmath>
+	<thread>
+	<algorithm>
+	<random>
+	<mutex>
+	<iostream>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1535144165 c:\program files (x86)\codeblocks\cbprojects\analyzeaoe2data\sdl_base.h
+	<string>
+	<SDL2/SDL_ttf.h>
+
+1542058207 source:c:\program files (x86)\codeblocks\cbprojects\analyzeaoe2data\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<cassert>
+	<algorithm>
+	<iomanip>
+	<chrono>
+	<thread>
+	<sstream>
+	<ext/pb_ds/assoc_container.hpp>
+	"sdl_base.h"
+
